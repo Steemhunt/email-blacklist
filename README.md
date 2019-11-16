@@ -1,3 +1,6 @@
+# DISCONTINUED
+In fovor of https://github.com/Steemhunt/mailchecker fork
+
 # Disposable Temporary Email Address Detector
 
 ```ruby
